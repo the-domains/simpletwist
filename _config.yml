@@ -1,0 +1,28 @@
+name: Simpletwist
+favicon: null
+layout_spectrum: 0.10864181630313396
+typography_spectrum: 0.21453271037898958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8057019300758839
+  lightness: 0.8366017714142799
+  saturation: 0.062102024676278234
+  rhythmicContrast: 0.2098927905317396
+purpose: []
