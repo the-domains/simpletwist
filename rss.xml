@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Simpletwist]]></title>
-        <description><![CDATA[Simpletwist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Itty Bitty Production Company]]></title>
+        <description><![CDATA[The Itty Bitty Production Company]]></description>
+        <link>https://thegrid.ai/simpletwist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 20:21:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 20:32:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simpletwist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<h1>Home</h1>]]></description>
+            <link>https://thegrid.ai/simpletwist/home/index.html</link>
+            <guid isPermaLink="false">2e14bff8-f2e6-45e9-9e68-1170f2168ccd</guid>
+            <pubDate>Sat, 28 Nov 2015 20:31:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/simpletwist/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">b230a8ba-f991-417f-a3cc-5b10cc95ffc0</guid>
             <pubDate>Sat, 28 Nov 2015 20:21:04 GMT</pubDate>
         </item>
