@@ -1,6 +1,6 @@
 name: Simpletwist
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25271
 typography_spectrum: 0.19889
 title: 'Simpletiwst: The Itty Bitty Production Company'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#948879'
     - '#de4f56'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
