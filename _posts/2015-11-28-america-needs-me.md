@@ -1,23 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2015-11-28T20:44:07.935Z'
-dateModified: '2015-11-28T20:43:53.739Z'
-title: America Needs Me.
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T16:26:16.955Z'
 sourcePath: _posts/2015-11-28-america-needs-me.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T16:26:16.572Z'
+title: America Needs Me.
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: america-needs-me/index.html
 _type: Article
 
