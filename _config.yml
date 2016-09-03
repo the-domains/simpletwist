@@ -1,7 +1,18 @@
+layout_spectrum: 0.10981331951916218
+typography_spectrum: 0.8615270417649299
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.3527988255955279
+  lightness: 0.1932853397447616
+  saturation: 0.9910181979648769
+  rhythmicContrast: 0.00986730633303523
 name: Simpletwist
 favicon: null
-layout_spectrum: 0.25271
-typography_spectrum: 0.19889
 title: 'Simpletiwst: The Itty Bitty Production Company'
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#f9f9f7'
-    - '#4c4846'
-    - '#948879'
-    - '#de4f56'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
